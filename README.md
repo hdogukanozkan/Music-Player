@@ -1,4 +1,4 @@
-# Project Lyrics App with ReactJS
+# Project Lyrics App with ReactJS.
 
 Develop a React.js Music Application. 
 
