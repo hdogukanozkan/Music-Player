@@ -1,7 +1,7 @@
 # Project Lyrics App with ReactJS.
 
 Develop a React.js Music Application. 
-
+Some codes are not mine. The lesson is work.
 
 
 ## Setup
